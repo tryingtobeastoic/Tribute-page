@@ -1,0 +1,79 @@
+header {
+  text-align: center;
+}
+
+h1 {
+  color: #9D3C3F;
+}
+
+h2 {
+  color: #ce6a39;
+}
+
+img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
+
+figcaption {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.quote p{
+  text-align: center;
+  margin: 5px;
+  color: #BC243C;
+}
+
+footer {
+  text-align: center;
+  padding: 50px 0px 10px 0px; 
+}
+
+.recognitions {
+  padding-bottom: 50px;
+}
+
+section {
+  padding: 30px;
+}
+
+/* unvisited link */
+a:link {
+  color: #9B2335;
+}
+
+/* visited link */
+a:visited {
+  color: #9B2335;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: #88B04B;
+}
+
+.h-index {
+  font-size: 13;
+}
+
+strong {
+  color: #E15D44
+}
+
+section li {
+  margin: 15px;
+}
+
+
+
+
+
+
